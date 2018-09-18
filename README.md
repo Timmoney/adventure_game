@@ -4,6 +4,6 @@ This is a adventure game. Users can go four directions
 -S --> south
 -W --> west
 
-and try to fiture out the relation between each locations
+and try to figure out the relation between each locations
 
 press q to quit.
